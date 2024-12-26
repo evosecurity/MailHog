@@ -1,0 +1,13 @@
+name: MailHog
+id: ari:cloud:compass:7ab74c8c-cdc7-47b4-ac42-498142383c41:component/e7890024-d21a-491e-8eed-88aeb93717f5/fc066307-0c99-4674-821f-b9a5c5355a9b
+description: Web and API based SMTP testing
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
